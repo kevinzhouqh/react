@@ -26,3 +26,22 @@ This is a single-page web application. It displays multiple dish details, introd
 
 ![home](https://user-images.githubusercontent.com/55266725/85962875-11df7b80-b981-11ea-8ca0-921090983cb4.PNG)
 
+### `Menu`
+
+The Menu displays each dish's image and their name
+
+![menu](https://user-images.githubusercontent.com/55266725/85963311-fe351480-b982-11ea-9c35-15f12bd75329.PNG)
+
+### `Dishdetail`
+
+After clicking each dish, you can look through the details of each dish. Which also include comments for the specific dish. If you have logged in, you can leave you own comments
+by clicking add comment button
+
+![dishdetail](https://user-images.githubusercontent.com/55266725/85963312-ff664180-b982-11ea-95aa-e0c3f4dafb45.PNG)
+
+
+### `Contactus`
+
+You can leave your feedback on the contactus webpage
+
+![contact](https://user-images.githubusercontent.com/55266725/85963316-01c89b80-b983-11ea-8001-840df9c5926b.PNG)
