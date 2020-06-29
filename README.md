@@ -24,3 +24,5 @@ This is a single-page web application. It displays multiple dish details, introd
 
 ### `Homepage`
 
+![home](https://user-images.githubusercontent.com/55266725/85962875-11df7b80-b981-11ea-8ca0-921090983cb4.PNG)
+
