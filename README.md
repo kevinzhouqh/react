@@ -18,3 +18,9 @@ Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 
+## Menu website
+
+This is a single-page web application. It displays multiple dish details, introductions of chef and company information on the web page. You can look through all the details on the details. If you register an account and login, you can leave comments for each dishes or give us some feedbacks through the forms.
+
+### `Homepage`
+
